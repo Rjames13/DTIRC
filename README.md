@@ -1,1 +1,2 @@
 # DTIRC
+Base on publication https://www.researchgate.net/publication/236200826_Optimisation_of_Concentrator_in_the_Solar_Photonic_Optoelectronic_Transformer_Comparison_of_Geometrical_Performance_and_Cost_of_Implementation
